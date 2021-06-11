@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subwayfootlong
-- 👀 I’m Iot
-- 🌱 I’m learning NodeRed
+- 👀 I’m focused on IoT/IIoT
+- 🌱 I’m learning NodeRed.
 Languages I know:C,C++,Python,Java,Javascript.
 
 <!---
