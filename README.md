@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @subwayfootlong
-- 👀 I’m focused on IoT/IIoT
-- 🌱 I’m learning NodeRed.
-Languages I know:C,C++,Python,Java,Javascript.
+# Hello I am Lutfi Lais!
 
-<!---
-subwayfootlong/subwayfootlong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Socials
+<a href="https://www.linkedin.com/in/lutfi-lais-357391210/" target="_blank"><img align="left" alt="Lutfi Lais | LinkedIn" width="22px" src="https://github.com/subwayfootlong/idk/blob/main/images/linkedin.svg" />
+<a href="https://t.me/abcsoups" target="_blank"><img align="left" alt="Lutfi Lais | Telegram" width="22px" src="https://github.com/subwayfootlong/idk/blob/main/images/telegram.png" />
