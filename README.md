@@ -3,10 +3,9 @@
 ## My Socials
 <a href="https://www.linkedin.com/in/lutfi-lais-357391210/" target="_blank"><img align="left" alt="Lutfi Lais | LinkedIn" width="22px" src="https://github.com/subwayfootlong/idk/blob/main/images/linkedin.svg" />
 <a href="https://t.me/abcsoups" target="_blank"><img align="left" alt="Lutfi Lais | Telegram" width="22px" src="https://github.com/subwayfootlong/idk/blob/main/images/telegram.png" />
-
-  
+<br>
 ## Languages and Tools:
-<a href="https://nodered.org" target="_blank"> <img align="left" alt="Node-RED" width="26px" src="https://github.com/subwayfootlong/idk/blob/main/images/node-red.png"/> </a>
+<a href="https://nodered.org" target="_blank"> <img align="left" alt="Node-RED" width="30px" src="https://github.com/subwayfootlong/idk/blob/main/images/node-red.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://github.com/subwayfootlong/idk/blob/main/images/javascript.png"/> </a>
